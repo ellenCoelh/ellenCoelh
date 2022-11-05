@@ -2,11 +2,13 @@
 
 > Desenvolvedora Frontend | Facilitadora Next | Evangelista CSS
 
-🔭 Atualmente trabalho como Engenheira de Software Pleno. 
-    Passei pelo processo de transição de carreira em 2019. 
-    Originalmente, sou graduada em Engenharia Biomédica, porém a paixão por tecnologia me levou a outros rumos!
+🔭 Atualmente trabalho como Engenheira de Software Pleno. <br>
+    Passei pelo processo de transição de carreira em 2019. <br>
+    Originalmente, sou graduada em Engenharia Biomédica, porém a paixão por tecnologia me levou a outros rumos!<br><br>
 
-💬 Pergunte-me sobre filmes, passeios pelo Brasil e culinária!
+
+💬 Pergunte-me sobre filmes, passeios pelo Brasil e culinária!<br><br>
+
 😄 Pronome: Ela/She
 
 ----
