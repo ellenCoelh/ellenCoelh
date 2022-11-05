@@ -25,6 +25,7 @@
 ---
 
 ## ⭐ Onde me encontrar
+[![Linkedin: Ellen Coelho](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellen-xavier-coelho/)](https://www.linkedin.com/in/ellen-xavier-coelho/)
 [![Linkedin: USERNAME](https://img.shields.io/badge/ellen-xavier-coelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellen-xavier-coelho/)](https://www.linkedin.com/in/ellen-xavier-coelho/)
 [![Gmail Badge](https://img.shields.io/badge/-ellencoe6@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ellencoe6@gmail.com)](mailto:ellencoe6@gmail.com)
 
